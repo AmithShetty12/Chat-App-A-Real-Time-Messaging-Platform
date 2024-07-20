@@ -7,7 +7,7 @@
 - [Project Structure](#project-structure)
 - [Extensions](#extensions)
 - [Further Implementations](#further-implementations)
-- [Acknowledgments](#acknowledgments)
+- [Collaborators](#collaborators)
 
 ## Project Overview
 A dynamic, real-time messaging platform designed to facilitate seamless communication between users.
