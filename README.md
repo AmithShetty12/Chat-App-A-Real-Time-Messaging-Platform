@@ -1,4 +1,3 @@
-```markdown
 # Chat-App: A Real-Time Messaging Platform
 
 ## Table of Contents
