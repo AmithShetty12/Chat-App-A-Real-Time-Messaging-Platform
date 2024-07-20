@@ -148,6 +148,9 @@ Further functionalities we would like to develop into this website are:
 - Account profile picture
 
 ## Collaborators
+
 [Darshan J Baligeri](https://github.com/Darshan-Baligeri)
+
 [Gagan K](https://github.com/Gagank30)
+
 [Dhruva K](https://github.com/Dhruva6364)
