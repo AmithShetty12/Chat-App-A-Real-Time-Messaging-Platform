@@ -10,7 +10,7 @@
 - [Acknowledgments](#acknowledgments)
 
 ## Project Overview
-As part of the Bright Network Technology Academy, we were assigned a group project to research, plan, and develop a Full-stack project—a chat app in 10 days.
+A dynamic, real-time messaging platform designed to facilitate seamless communication between users.
 
 ## This Website Features
 - Login functionality
